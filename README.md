@@ -1,0 +1,1 @@
+# Dynamic-scraping-for-stock-market-prediction
